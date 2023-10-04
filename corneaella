@@ -1,0 +1,7 @@
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="CorneaELLA"
+  agent-id="76319643-4574-4af8-be77-c1f4e1062e82"
+  language-code="en"
+></df-messenger>
